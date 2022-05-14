@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/iTuneListener/app/src/main/res/layout-sw600dp/activity_swipe_refresh.xml" value="0.153125" />
         <entry key="..\:/Users/User/AndroidStudioProjects/iTuneListener/app/src/main/res/layout/activity_main.xml" value="0.18568840579710144" />
         <entry key="..\:/Users/User/AndroidStudioProjects/iTuneListener/app/src/main/res/layout/activity_preview.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/User/AndroidStudioProjects/iTuneListener/app/src/main/res/layout/activity_swipe_refresh.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/iTuneListener/app/src/main/res/layout/fragment_i_tune_list.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/User/AndroidStudioProjects/iTuneListener/app/src/main/res/layout/itune_list_item.xml" value="0.16757246376811594" />
       </map>
     </option>
